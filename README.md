@@ -10,3 +10,9 @@ Hardware:
   -Adafruit i2c LCD STEMMA backpack
   
   -2x16 LCD display
+
+
+
+Menu functionality:
+
+Single press of encoder to enter menu. Turn encoder to select parameter and single press switch between menu and editing. Select "Exit Menu..." to return to clock display.
